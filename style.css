@@ -1,0 +1,23 @@
+:root{
+    --cor1: #794EED;
+    --cor2: #5252F7;
+    --cor3: #557AE0;
+    --cor4: #52A9F7;
+    --cor5: #4ECCED;
+}
+.header{
+    height: 48.1vw;
+    background-color: var(--cor1);
+    display: none;
+    margin: 0%;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+.boco{
+    float: right;
+}
+.textocabeca{
+    font-size: 10vw;
+}
